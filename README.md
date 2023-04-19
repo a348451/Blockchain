@@ -1,4 +1,4 @@
-******************BLOCKCHAIN******************************
+**BLOCKCHAIN**
 Este proyecto contiene los archivos con los codigos necesarios para crear y manipular  una cadena de bloques 
 
 EMPEZANDO:
